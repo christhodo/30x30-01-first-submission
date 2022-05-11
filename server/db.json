@@ -1,0 +1,18 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "This is my first 30x30 Application",
+      "description": "This took me so much longer than it should have",
+      "percentComplete": 20,
+      "favorite": true
+    },
+    {
+      "id": "S6EaOps",
+      "title": "New Course Update",
+      "description": "Testing the create course function",
+      "percentComplete": 10,
+      "favorite": true
+    }
+  ]
+}
